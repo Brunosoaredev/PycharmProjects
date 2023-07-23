@@ -4,9 +4,9 @@
 # C - Quais foram os números pares.
 
 núm = (int(input('Digite um número: ')),
-    int(input('Digite outro número: ')),
-    int(input('Digite mais um número: ')),
-    int(input('Digite o último número: ')))
+       int(input('Digite outro número: ')),
+       int(input('Digite mais um número: ')),
+       int(input('Digite o último número: ')))
 print('-=' * 25)
 print(f'Você digitou os valores {núm}')
 print('-=' * 25)
