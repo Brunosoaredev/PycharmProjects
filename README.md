@@ -1,2 +1,2 @@
 # PycharmProjects
- Minhas-aulas
+ exercícios de python (tuplas)
